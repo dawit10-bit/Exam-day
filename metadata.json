@@ -1,0 +1,6 @@
+{
+  "name": "Exam Days Counter",
+  "description": "Offline countdown tracker and study planner for upcoming exams, featuring custom notification reminders, priority sorting, study task progression, and a premium Apple-inspired aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
